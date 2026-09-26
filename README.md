@@ -20,7 +20,7 @@ MySQL
 - Update Status
 
 ## Description
-A simple Personal Task Manager built using Laravel. The system allows users to create, view, edit, delete, and update the status of their tasks.
+A Project Task Manager based on Laravel with CRUD functionality
 
 ## Technologies Used
 - Laravel
